@@ -13,14 +13,15 @@ COMO EXECUTAR:
 EXEMPLOS:
 
 PILHA:
-Entrada: Inserir 10, 20, 30 → Imprimir → Remover → Imprimir  
+Entrada: Inserir 10, 20, 30 
+Imprimir - Remover - Imprimir  
 Saída:
 Pilha: 30 20 10
 Removido da pilha: 30
 Pilha: 20 10
 
 FILA:
-Entrada: Inserir 1, 2, 3 → Imprimir → Remover → Imprimir  
+Entrada: Inserir 1, 2, 3 - Imprimir - Remover - Imprimir  
 Saída:
 Fila: 1 2 3
 Removido da fila: 1
